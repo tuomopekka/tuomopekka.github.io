@@ -24,3 +24,13 @@ h6,
   color: inherit;
   text-transform: uppercase;
 }
+
+.carousel-control.left {
+  background-image: none;
+  
+}
+.carousel-control.right {
+  
+  background-image: none;
+  
+}
