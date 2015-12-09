@@ -1,6 +1,6 @@
 body {
-  font-family: "Roboto", sans-serif;
-  font-size: 14px;
+  font-family: "Merriweather", serif;
+  font-size: 16px;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
@@ -18,19 +18,24 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: "Roboto", sans-serif;
   font-weight: 900;
   line-height: 1.1;
   color: inherit;
   text-transform: uppercase;
 }
 
-.carousel-control.left {
-  background-image: none;
-  
+h1,
+.h1 {
+  font-size: 25px;
 }
-.carousel-control.right {
-  
-  background-image: none;
-  
+
+h2,
+.h2 {
+  font-size: 20px;
+}
+
+h3,
+.h3 {
+  font-size: 16px;
 }
