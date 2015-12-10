@@ -5,7 +5,8 @@
  */
  
 body {
-  font-family: "Cutive Mono", "VT323", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+  /* font-family: "Cutive Mono", "VT323", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+  font-family: "VT323", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.2;
