@@ -10,8 +10,8 @@ body {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.2;
-  color: #000000;
-  text-transform: lowercase;
+  color: #222222;
+  text-transform: uppercase;
   background-color: #FDF9F1;
 }  
   
@@ -41,12 +41,12 @@ h6 {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.1;
-  color: #000000;
+  color: #222222;
   text-transform: lowercase;
 }
 
 a {
-  color: #000000;
+  color: #222222;
   text-decoration: underline;
   /* border-bottom: solid 1px #466104; */
 }
@@ -63,7 +63,7 @@ a:focus {
 ================================*/
 
 a:hover {
- color: #000000;
+ color: #222222;
  text-decoration: none;
 }
 
