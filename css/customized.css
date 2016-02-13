@@ -11,7 +11,7 @@ body {
   line-height: 1.2;
   color: #333333;
   text-transform: uppercase;
-  background-color: #FDF9F1;
+  background-color: #ffffff;
 }  
 
 .h1,
@@ -29,8 +29,8 @@ h1 {
  font-family: "VT323", "Helvetica Neue", Helvetica, Arial, sans-serif;
  font-size: 45px;
  font-weight: 400;
- line-height: 1;
- color: #007900;
+ line-height: 1.2;
+ color: #000000;
  text-transform: uppercase;
 }
 
@@ -47,13 +47,13 @@ h6 {
   font-family: "VT323", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 30px;
   font-weight: 400;
-  line-height: 1;
-  color: #333333;
+  line-height: 1.2;
+  color: #000000;
   text-transform: uppercase;
 }
 
 a {
-  color: #333333;
+  color: #000000;
   /* text-decoration: underline; */
   /* border-bottom: solid 1px #466104; */
 }
