@@ -87,3 +87,7 @@ input.gsc-input,
     box-sizing: content-box; 
     line-height: normal;
 }
+
+.gsc-results-wrapper-overlay, .gsc-results-wrapper-visible, .gsc-search-button, .gsc-search-button-v2 {
+        box-sizing: content-box;
+    }
