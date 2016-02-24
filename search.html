@@ -7,7 +7,7 @@
 <style type="text/css">
 <!--
 body {
- f  background: #ffffff;
+	background: #ffffff;
 	margin: 0;
 	padding: 0;
 	color: #000000;
@@ -17,14 +17,24 @@ ul, ol, dl { /* Due to variations between browsers, it's best practices to zero 
 	padding: 0;
 	margin: 0;
 }
-h1 {
-	font-family: 'Playfair Display', serif;
-}
+
 h1, h2, h3, h4, h5, h6, p {
 	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
 	padding-right: 15px;
 	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
 }
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+}
+
+h2 {
+    font-family: 'Arial', serif;
+    font-size: 15px;
+    font-weight: 200;
+}
+
 a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
 	border: none;
 }
@@ -101,7 +111,8 @@ display: none;
     <p>&nbsp;</p>
   </div>
   <div class="content">
-    <h1>Search | University of Helsinki</h1>
+    <h1>Search</h1>
+    <h2>The University of Helsinki has a pretty crappy search. Here's a better one.</h2>
     <script>
   (function() {
     var cx = '009089770602949496507:tpu5z1e9zje';
