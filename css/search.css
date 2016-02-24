@@ -76,11 +76,3 @@ a:focus {
   outline: none;
   outline-offset: none;
 }
-
-/* Hakulaatikko  */
-
-* {
-  -webkit-box-sizing: none;
-     -moz-box-sizing: none;
-          box-sizing: none;
-}
