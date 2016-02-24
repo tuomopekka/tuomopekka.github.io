@@ -10,7 +10,7 @@ body {
   font-weight: 400;
   line-height: 1;
   color: #333333;
-  text-transform: uppercase;
+  text-transform: none;
   background-color: #ffffff;
 }  
 
@@ -49,7 +49,7 @@ h6 {
   font-weight: 400;
   line-height: 1;
   color: #000000;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 a {
