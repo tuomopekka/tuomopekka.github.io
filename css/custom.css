@@ -1,0 +1,76 @@
+/*!
+ * custom.css | tuomopekka.github.io
+ */
+ 
+body {
+  font-family: "Roboto Mono", Arial, serif; 
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #333333;
+  text-transform: none;
+  background-color: #DCEAD5;
+}  
+
+.p, 
+p {
+  ont-family: "Roboto Mono", Arial, serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.6;
+  color: #333333;
+  text-transform: none;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.h1,
+.h2,
+.h3,
+h1,
+h2,
+h3 {
+ font-family: "Roboto Mono", Arial, serif;
+ font-weight: 400;
+ line-height: 1.2;
+ color: #333333;
+ text-transform: none;
+}
+
+.h1, 
+h1 {
+ font-size: 30px;
+ font-weight: 700;
+ margin-top: 0px;
+ margin-bottom: 10px;
+}
+
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+a {
+  color: #333333;
+  border-bottom: none;
+}
+
+a:hover, 
+a:focus {
+  color: #333333;
+  text-decoration: none;
+  border-bottom: solid 2px #333333;
+  outline: none;
+  outline-offset: none;
+}
