@@ -63,14 +63,13 @@ h6 {
 
 a {
   color: #333333;
-  border-bottom: none;
+  border-bottom: solid 2px #333333;
 }
 
 a:hover, 
 a:focus {
   color: #333333;
   text-decoration: none;
-  border-bottom: solid 2px #333333;
   outline: none;
   outline-offset: none;
 }
